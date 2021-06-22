@@ -1,0 +1,2 @@
+add_executable(CustomHTTParserTest main.cpp)
+target_link_libraries(CustomHTTParserTest CustomHTTParserLib)
